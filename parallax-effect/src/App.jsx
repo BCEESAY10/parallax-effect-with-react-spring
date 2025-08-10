@@ -36,7 +36,7 @@ function App() {
           sticky={{ start: 0.9, end: 2.5 }}
           style={{ textAlign: 'center' }}
         >
-          <img src={greenLogo} />
+          <img src={orangeLogo} />
         </ParallaxLayer>
 
         <ParallaxLayer
