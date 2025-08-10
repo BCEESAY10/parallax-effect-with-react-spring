@@ -1,5 +1,6 @@
 import greenLogo from '/BC tech academy mockup.png'
 import orangeLogo from '/BC_tech_academy_logo-no_bg.png'
+import land from '/land.jfif'
 import './App.css'
 import { useRef } from 'react'
 import { Parallax, ParallaxLayer } from '@react-spring/parallax'
@@ -26,7 +27,7 @@ function App() {
           speed={1}
           factor={4}
           style={{
-            backgroundImage: `url(${orangeLogo})`,
+            backgroundImage: `url(${land})`,
             backgroundSize: 'cover',
           }}
         ></ParallaxLayer>
