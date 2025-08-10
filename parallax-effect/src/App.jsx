@@ -1,5 +1,5 @@
-import greenLogo from './assets/BC tech academy mockup.png'
-import orangeLogo from './assets/BC_tech_academy_logo-no_bg.png'
+import greenLogo from '/BC tech academy mockup.png'
+import orangeLogo from '/BC_tech_academy_logo-no_bg.png'
 import './App.css'
 import { useRef } from 'react'
 import { Parallax, ParallaxLayer } from '@react-spring/parallax'
